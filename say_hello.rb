@@ -7,4 +7,4 @@ end
 say_hello ("Gabriela")
 
 
-say_hello
+say_hello(name)
